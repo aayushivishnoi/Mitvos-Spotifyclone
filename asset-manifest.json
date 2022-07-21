@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mitvos-Spotifyclone/static/css/main.cbef934f.css",
+    "main.js": "/Mitvos-Spotifyclone/static/js/main.0173a50a.js",
+    "static/js/787.6a3b9d5d.chunk.js": "/Mitvos-Spotifyclone/static/js/787.6a3b9d5d.chunk.js",
+    "index.html": "/Mitvos-Spotifyclone/index.html",
+    "main.cbef934f.css.map": "/Mitvos-Spotifyclone/static/css/main.cbef934f.css.map",
+    "main.0173a50a.js.map": "/Mitvos-Spotifyclone/static/js/main.0173a50a.js.map",
+    "787.6a3b9d5d.chunk.js.map": "/Mitvos-Spotifyclone/static/js/787.6a3b9d5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbef934f.css",
+    "static/js/main.0173a50a.js"
+  ]
+}
